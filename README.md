@@ -2,7 +2,7 @@
 
 
 ## Introduction 
-**Expense-Explorer** is a Flutter app SDK to keep track of expenses in the span of a week.
+**Expense-Explorer** is a Flutter app APK to keep track of expenses in the span of a week.
 
 
 ## Key Features
